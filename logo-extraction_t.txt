@@ -1,0 +1,2 @@
+Webpage Url,Logo Url
+https://bitcoin.org/en/

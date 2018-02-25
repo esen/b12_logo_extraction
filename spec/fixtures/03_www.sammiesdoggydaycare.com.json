@@ -1,0 +1,2363 @@
+{
+  "tag_name": "html",
+  "class": " diy-js diy-no-touch diy-csstransforms diy-csstransforms3d diy-csstransitions diy-localstorage",
+  "visible_area": 320000,
+  "x_coordinate": 0,
+  "y_coordinate": 0,
+  "children": [
+    {
+      "tag_name": "head",
+      "x_coordinate": 0,
+      "y_coordinate": 0,
+      "children": [
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://cdn.initial-website.com/",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://mod03.initial-website.com/",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "https://cms03.initial-website.com/",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://cdn.initial-website.com/favicon.ico",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "title",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "style",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "style",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://cdn.initial-website.com/templates/2127/style.css?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/style/theming.css?1453228113",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://cdn.initial-website.com/app/cdn/min/group/web.css?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://cdn.initial-website.com/app/cdn/min/moduleserver/css/en_US/common,shoppingbasket?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://cdn.initial-website.com/app/cdn/min/group/mobilenavigation.css?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "https://cms03.initial-website.com/app/logstate2-css.php?site=78391821&t=1479226018",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "https://cms03.initial-website.com/app/logstate-js.php?site=78391821&t=1479226018",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://cdn.initial-website.com/templates/2127/print.css?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://cdn.initial-website.com/app/cdn/min/group/web.js?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://cdn.initial-website.com/s/build/web.bundle.js?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://cdn.initial-website.com/app/cdn/min/group/mobilenavigation.js?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://cdn.initial-website.com/app/cdn/min/moduleserver/js/en_US/common,shoppingbasket?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://cdn.initial-website.com/proxy/apps/shai10/resource/dependencies/",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://cdn.initial-website.com/app/cdn/min/group/pfcsupport.js?1475186917975",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "https://cdn.initial-website.com/proxy/apps/shai10/s/diy/basic/public/css/basic.css?rev-1476078881=",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "https://cdn.initial-website.com/proxy/apps/shai10/s/facebook/facebookWall/public/css/web.css?rev-1476078881=",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://cdn.initial-website.com/proxy/apps/shai10/js/order.js",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "https://cdn.initial-website.com/proxy/apps/shai10/s/facebook/facebookWall/public/js/facebookWall.js?rev-1476078881=",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "https://cdn.initial-website.com/proxy/apps/shai10/api/app/facebook/translation/en_US?rev-1476078881=",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "style",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag_name": "body",
+      "id": "page-122274544",
+      "class": "body  cc-pagemode-default  startpage diyfeNoSidebar diy-layout-fullWidth",
+      "visible_area": 320000,
+      "x_coordinate": 0,
+      "y_coordinate": 0,
+      "children": [
+        {
+          "tag_name": "div",
+          "class": "diyw",
+          "visible_area": 2193600,
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": [
+            {
+              "tag_name": "div",
+              "class": "diyweb",
+              "visible_area": 2193600,
+              "x_coordinate": 0,
+              "y_coordinate": 0,
+              "children": [
+                {
+                  "tag_name": "div",
+                  "class": "diywebGutter",
+                  "visible_area": 119600,
+                  "x_coordinate": 0,
+                  "y_coordinate": 0,
+                  "children": [
+                    {
+                      "tag_name": "div",
+                      "class": "diywebHeader diyfeCA diyfeCA2",
+                      "visible_area": 119600,
+                      "x_coordinate": 0,
+                      "y_coordinate": 0,
+                      "children": [
+                        {
+                          "tag_name": "div",
+                          "class": "diywebHeader-item diywebMobileNavigation",
+                          "visible_area": 21200,
+                          "x_coordinate": 0,
+                          "y_coordinate": 0,
+                          "children": [
+                            {
+                              "tag_name": "nav",
+                              "id": "diyfemobilenav",
+                              "class": "diyfeCA diyfeCA2",
+                              "visible_area": 21200,
+                              "x_coordinate": 0,
+                              "y_coordinate": 0,
+                              "children": [
+                                {
+                                  "tag_name": "a",
+                                  "visible_area": 16770,
+                                  "x_coordinate": 5,
+                                  "y_coordinate": 5,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "ul",
+                                  "class": "mainNav1",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": [
+                                    {
+                                      "tag_name": "li",
+                                      "class": "current hasSubNavigation",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/index.html",
+                                          "class": "current level_1",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "span",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "class": " hasSubNavigation",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/about-us/index.html",
+                                          "class": " level_1",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "span",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "class": " hasSubNavigation",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/business-hours/index.html",
+                                          "class": " level_1",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "span",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "class": " hasSubNavigation",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/services/index.html",
+                                          "class": " level_1",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "span",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "class": " hasSubNavigation",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/prices/index.html",
+                                          "class": " level_1",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "span",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "class": " hasSubNavigation",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/policy/index.html",
+                                          "class": " level_1",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "span",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "class": " hasSubNavigation",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/contact-us/index.html",
+                                          "class": " level_1",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "span",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "diywebHeader-item diywebLogoArea",
+                          "visible_area": 98400,
+                          "x_coordinate": 0,
+                          "y_coordinate": 53,
+                          "children": [
+                            {
+                              "tag_name": "style",
+                              "x_coordinate": 0,
+                              "y_coordinate": 0,
+                              "children": []
+                            },
+                            {
+                              "tag_name": "div",
+                              "id": "website-logo",
+                              "visible_area": 98400,
+                              "x_coordinate": 0,
+                              "y_coordinate": 53,
+                              "children": [
+                                {
+                                  "tag_name": "p",
+                                  "class": "website-logo-text ",
+                                  "visible_area": 98400,
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 53,
+                                  "children": [
+                                    {
+                                      "tag_name": "a",
+                                      "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/index.html",
+                                      "class": "website-logo-text",
+                                      "x_coordinate": 44.90625,
+                                      "y_coordinate": 53,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "diywebHeader-item diywebDesktopNavigation",
+                          "x_coordinate": 0,
+                          "y_coordinate": 0,
+                          "children": [
+                            {
+                              "tag_name": "div",
+                              "class": "diywebMainNavigation",
+                              "x_coordinate": 0,
+                              "y_coordinate": 0,
+                              "children": [
+                                {
+                                  "tag_name": "div",
+                                  "class": "webnavigation",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": [
+                                    {
+                                      "tag_name": "ul",
+                                      "id": "mainnav1",
+                                      "class": "mainNav1",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "li",
+                                          "class": "navTopItemGroup_1",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "a",
+                                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/index.html",
+                                              "class": "current level_1",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": [
+                                                {
+                                                  "tag_name": "span",
+                                                  "x_coordinate": 0,
+                                                  "y_coordinate": 0,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "li",
+                                          "class": "navTopItemGroup_2",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "a",
+                                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/about-us/index.html",
+                                              "class": "level_1",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": [
+                                                {
+                                                  "tag_name": "span",
+                                                  "x_coordinate": 0,
+                                                  "y_coordinate": 0,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "li",
+                                          "class": "navTopItemGroup_3",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "a",
+                                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/business-hours/index.html",
+                                              "class": "level_1",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": [
+                                                {
+                                                  "tag_name": "span",
+                                                  "x_coordinate": 0,
+                                                  "y_coordinate": 0,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "li",
+                                          "class": "navTopItemGroup_4",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "a",
+                                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/services/index.html",
+                                              "class": "level_1",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": [
+                                                {
+                                                  "tag_name": "span",
+                                                  "x_coordinate": 0,
+                                                  "y_coordinate": 0,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "li",
+                                          "class": "navTopItemGroup_5",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "a",
+                                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/prices/index.html",
+                                              "class": "level_1",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": [
+                                                {
+                                                  "tag_name": "span",
+                                                  "x_coordinate": 0,
+                                                  "y_coordinate": 0,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "li",
+                                          "class": "navTopItemGroup_6",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "a",
+                                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/policy/index.html",
+                                              "class": "level_1",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": [
+                                                {
+                                                  "tag_name": "span",
+                                                  "x_coordinate": 0,
+                                                  "y_coordinate": 0,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "li",
+                                          "class": "navTopItemGroup_7",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": [
+                                            {
+                                              "tag_name": "a",
+                                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/contact-us/index.html",
+                                              "class": "level_1",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": [
+                                                {
+                                                  "tag_name": "span",
+                                                  "x_coordinate": 0,
+                                                  "y_coordinate": 0,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag_name": "div",
+                                  "class": "webnavigation",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "div",
+                                  "class": "webnavigation",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag_name": "div",
+                  "class": "diywebContent",
+                  "visible_area": 2024000,
+                  "x_coordinate": 0,
+                  "y_coordinate": 299,
+                  "children": [
+                    {
+                      "tag_name": "div",
+                      "class": "diywebGutter",
+                      "visible_area": 2024000,
+                      "x_coordinate": 0,
+                      "y_coordinate": 299,
+                      "children": [
+                        {
+                          "tag_name": "div",
+                          "class": "diywebMain",
+                          "visible_area": 2024000,
+                          "x_coordinate": 0,
+                          "y_coordinate": 299,
+                          "children": [
+                            {
+                              "tag_name": "div",
+                              "class": "diyfeCA diyfeCA1",
+                              "visible_area": 2024000,
+                              "x_coordinate": 0,
+                              "y_coordinate": 299,
+                              "children": [
+                                {
+                                  "tag_name": "div",
+                                  "id": "content_area",
+                                  "visible_area": 2024000,
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 299,
+                                  "children": [
+                                    {
+                                      "tag_name": "div",
+                                      "id": "content_start",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": []
+                                    },
+                                    {
+                                      "tag_name": "div",
+                                      "id": "matrix_110567658",
+                                      "class": "sortable-matrix",
+                                      "visible_area": 2024000,
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 299,
+                                      "children": [
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-imageSubtitle",
+                                          "visible_area": 70800,
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 299,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "id": "imagesubtitle-762947609",
+                                              "class": "clearover imageSubtitle",
+                                              "visible_area": 70800,
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 299,
+                                              "children": [
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "align-container align-center",
+                                                  "visible_area": 70800,
+                                                  "x_coordinate": 0,
+                                                  "y_coordinate": 299,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "a",
+                                                      "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_894300604.JPG?t=1453228512",
+                                                      "class": "imagewrapper",
+                                                      "x_coordinate": 0,
+                                                      "y_coordinate": 299,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "img",
+                                                          "id": "image_894300604",
+                                                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_894300604.JPG?t=1453228512",
+                                                          "visible_area": 70800,
+                                                          "x_coordinate": 0,
+                                                          "y_coordinate": 299,
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag_name": "script",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-header diyfeLiveArea",
+                                          "visible_area": 39216,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 475.59375,
+                                          "children": [
+                                            {
+                                              "tag_name": "h1",
+                                              "visible_area": 39216,
+                                              "x_coordinate": 48,
+                                              "y_coordinate": 475.59375,
+                                              "children": [
+                                                {
+                                                  "tag_name": "span",
+                                                  "class": "diyfeDecoration",
+                                                  "x_coordinate": 79.5625,
+                                                  "y_coordinate": 478.59375,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                          "visible_area": 15200,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 604.59375,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "id": "imagesubtitle-762946624",
+                                              "class": "clearover imageSubtitle",
+                                              "visible_area": 15200,
+                                              "x_coordinate": 48,
+                                              "y_coordinate": 604.59375,
+                                              "children": [
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "align-container align-center",
+                                                  "visible_area": 5950,
+                                                  "x_coordinate": 140.5,
+                                                  "y_coordinate": 604.59375,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "a",
+                                                      "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_894298648.png?t=1453224044",
+                                                      "class": "imagewrapper",
+                                                      "x_coordinate": 140.5,
+                                                      "y_coordinate": 604.59375,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "img",
+                                                          "id": "image_894298648",
+                                                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_894298648.png?t=1453224044",
+                                                          "visible_area": 5950,
+                                                          "x_coordinate": 140.5,
+                                                          "y_coordinate": 604.59375,
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag_name": "script",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-webcomponent-facebookWall diyfeLiveArea",
+                                          "visible_area": 164160,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 654.59375,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "id": "webcomponent_fdefa7c8-a571-4cc5-8b16-0e8695b4a0eb_web",
+                                              "class": "diysdk_facebook_facebookWall web_view webcomponent diyApp",
+                                              "visible_area": 164160,
+                                              "x_coordinate": 48,
+                                              "y_coordinate": 654.59375,
+                                              "children": [
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "fb-config",
+                                                  "x_coordinate": 48,
+                                                  "y_coordinate": 654.59375,
+                                                  "children": []
+                                                },
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "alignment clear",
+                                                  "visible_area": 164160,
+                                                  "x_coordinate": 48,
+                                                  "y_coordinate": 654.59375,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "div",
+                                                      "id": "fb-root",
+                                                      "class": " fb_reset",
+                                                      "x_coordinate": 48,
+                                                      "y_coordinate": 654.59375,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "div",
+                                                          "x_coordinate": 48,
+                                                          "y_coordinate": -10000,
+                                                          "children": [
+                                                            {
+                                                              "tag_name": "div",
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": -10000,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "iframe",
+                                                                  "id": "fb_xdm_frame_http",
+                                                                  "src": "http://staticxx.facebook.com/connect/xd_arbiter/r/Nh1oH0K63yz.js?version=42#channel=f11061166dccf88&origin=http%3A%2F%2Fground-truth-data.s3-website-us-east-1.amazonaws.com",
+                                                                  "visible_area": 45000,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": -10000,
+                                                                  "children": []
+                                                                },
+                                                                {
+                                                                  "tag_name": "iframe",
+                                                                  "id": "fb_xdm_frame_https",
+                                                                  "src": "https://staticxx.facebook.com/connect/xd_arbiter/r/Nh1oH0K63yz.js?version=42#channel=f11061166dccf88&origin=http%3A%2F%2Fground-truth-data.s3-website-us-east-1.amazonaws.com",
+                                                                  "visible_area": 45000,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": -9849,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        },
+                                                        {
+                                                          "tag_name": "div",
+                                                          "x_coordinate": 48,
+                                                          "y_coordinate": -10000,
+                                                          "children": [
+                                                            {
+                                                              "tag_name": "div",
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": -10000,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "iframe",
+                                                                  "src": "https://www.facebook.com/connect/ping?client_id=535144533232457&domain=ground-truth-data.s3-website-us-east-1.amazonaws.com&origin=1&redirect_uri=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FNh1oH0K63yz.js%3Fversion%3D42%23cb%3Df1ae87775c90e6c%26domain%3Dground-truth-data.s3-website-us-east-1.amazonaws.com%26origin%3Dhttp%253A%252F%252Fground-truth-data.s3-website-us-east-1.amazonaws.com%252Ff11061166dccf88%26relation%3Dparent&response_type=token%2Csigned_request%2Ccode&sdk=joey",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    },
+                                                    {
+                                                      "tag_name": "div",
+                                                      "class": "fb-like-box fb_iframe_widget",
+                                                      "visible_area": 164160,
+                                                      "x_coordinate": 48,
+                                                      "y_coordinate": 654.59375,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "span",
+                                                          "visible_area": 164160,
+                                                          "x_coordinate": 48,
+                                                          "y_coordinate": 654.59375,
+                                                          "children": [
+                                                            {
+                                                              "tag_name": "iframe",
+                                                              "src": "https://www.facebook.com/v2.3/plugins/like_box.php?app_id=535144533232457&channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FNh1oH0K63yz.js%3Fversion%3D42%23cb%3Df279ef7f9533a34%26domain%3Dground-truth-data.s3-website-us-east-1.amazonaws.com%26origin%3Dhttp%253A%252F%252Fground-truth-data.s3-website-us-east-1.amazonaws.com%252Ff11061166dccf88%26relation%3Dparent.parent&color_scheme=dark&container_width=304&header=true&href=https%3A%2F%2Fwww.facebook.com%2FSammies-pet-services-1062872387086936%2F%3Fref%3Dhl&locale=en_US&sdk=joey&show_border=true&show_faces=true&stream=true&width=304",
+                                                              "visible_area": 164160,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 654.59375,
+                                                              "children": []
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "clear",
+                                                  "x_coordinate": 48,
+                                                  "y_coordinate": 1194.59375,
+                                                  "children": []
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag_name": "script",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-spacer diyfeLiveArea",
+                                          "visible_area": 6080,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 1194.59375,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "class": "the-spacer id762946633",
+                                              "visible_area": 6080,
+                                              "x_coordinate": 48,
+                                              "y_coordinate": 1194.59375,
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-header diyfeLiveArea",
+                                          "visible_area": 13072,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 1214.59375,
+                                          "children": [
+                                            {
+                                              "tag_name": "h1",
+                                              "visible_area": 13072,
+                                              "x_coordinate": 48,
+                                              "y_coordinate": 1214.59375,
+                                              "children": [
+                                                {
+                                                  "tag_name": "span",
+                                                  "class": "diyfeDecoration",
+                                                  "x_coordinate": 149.3125,
+                                                  "y_coordinate": 1217.59375,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                          "visible_area": 15200,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 1257.59375,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "id": "imagesubtitle-762946652",
+                                              "class": "clearover imageSubtitle",
+                                              "visible_area": 15200,
+                                              "x_coordinate": 48,
+                                              "y_coordinate": 1257.59375,
+                                              "children": [
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "align-container align-center",
+                                                  "visible_area": 5950,
+                                                  "x_coordinate": 140.5,
+                                                  "y_coordinate": 1257.59375,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "a",
+                                                      "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_894298658.png?t=1453224047",
+                                                      "class": "imagewrapper",
+                                                      "x_coordinate": 140.5,
+                                                      "y_coordinate": 1257.59375,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "img",
+                                                          "id": "image_894298658",
+                                                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_894298658.png?t=1453224047",
+                                                          "visible_area": 5950,
+                                                          "x_coordinate": 140.5,
+                                                          "y_coordinate": 1257.59375,
+                                                          "children": []
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag_name": "script",
+                                              "x_coordinate": 0,
+                                              "y_coordinate": 0,
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-spacer diyfeLiveArea",
+                                          "visible_area": 18240,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 1307.59375,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "class": "the-spacer id762946653",
+                                              "visible_area": 18240,
+                                              "x_coordinate": 48,
+                                              "y_coordinate": 1307.59375,
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-matrix diyfeLiveArea",
+                                          "visible_area": 577296,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 1367.59375,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "class": "diyfeModGridGroup diyfeModGrid3",
+                                              "visible_area": 634600,
+                                              "x_coordinate": 33,
+                                              "y_coordinate": 1367.59375,
+                                              "children": [
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "diyfeModGridElement diyfeModGridCol33 diyfeModGridElement1st",
+                                                  "visible_area": 219104,
+                                                  "x_coordinate": 33,
+                                                  "y_coordinate": 1367.59375,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "div",
+                                                      "class": "diyfeModGridContent",
+                                                      "visible_area": 199424,
+                                                      "x_coordinate": 48,
+                                                      "y_coordinate": 1367.59375,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "div",
+                                                          "id": "matrix_110576075",
+                                                          "class": "sortable-matrix-child",
+                                                          "visible_area": 199424,
+                                                          "x_coordinate": 48,
+                                                          "y_coordinate": 1367.609375,
+                                                          "children": [
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 138624,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 1367.609375,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-763926298",
+                                                                  "class": "clearover imageSubtitle",
+                                                                  "visible_area": 138624,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 1367.609375,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 117192,
+                                                                      "x_coordinate": 71.5,
+                                                                      "y_coordinate": 1367.609375,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_895989925.JPG?t=1466100512",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 71.5,
+                                                                          "y_coordinate": 1367.609375,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_895989925",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_895989925.JPG?t=1466100512",
+                                                                              "visible_area": 117192,
+                                                                              "x_coordinate": 71.5,
+                                                                              "y_coordinate": 1367.609375,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 60800,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 1823.609375,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-762947810",
+                                                                  "class": "clearover imageSubtitle",
+                                                                  "visible_area": 60800,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 1823.609375,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 53200,
+                                                                      "x_coordinate": 67,
+                                                                      "y_coordinate": 1823.609375,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_894301066.JPG?t=1453229446",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 67,
+                                                                          "y_coordinate": 1823.609375,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_894301066",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_894301066.JPG?t=1453229446",
+                                                                              "visible_area": 53200,
+                                                                              "x_coordinate": 67,
+                                                                              "y_coordinate": 1823.609375,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "diyfeModGridElement diyfeModGridCol33 diyfeModGridElement2nd",
+                                                  "visible_area": 219104,
+                                                  "x_coordinate": 33,
+                                                  "y_coordinate": 2023.625,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "div",
+                                                      "class": "diyfeModGridContent",
+                                                      "visible_area": 199424,
+                                                      "x_coordinate": 48,
+                                                      "y_coordinate": 2023.625,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "div",
+                                                          "id": "matrix_110576076",
+                                                          "class": "sortable-matrix-child",
+                                                          "visible_area": 199424,
+                                                          "x_coordinate": 48,
+                                                          "y_coordinate": 2023.640625,
+                                                          "children": [
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 60800,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 2023.640625,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-762947820",
+                                                                  "class": "clearover imageSubtitle",
+                                                                  "visible_area": 60800,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 2023.640625,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 53200,
+                                                                      "x_coordinate": 67,
+                                                                      "y_coordinate": 2023.640625,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_894301079.JPG?t=1453229475",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 67,
+                                                                          "y_coordinate": 2023.640625,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_894301079",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_894301079.JPG?t=1453229475",
+                                                                              "visible_area": 53200,
+                                                                              "x_coordinate": 67,
+                                                                              "y_coordinate": 2023.640625,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 138624,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 2223.640625,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-763926333",
+                                                                  "class": "clearover imageSubtitle",
+                                                                  "visible_area": 138624,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 2223.640625,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 117192,
+                                                                      "x_coordinate": 71.5,
+                                                                      "y_coordinate": 2223.640625,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_895990277.JPG?t=1466100469",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 71.5,
+                                                                          "y_coordinate": 2223.640625,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_895990277",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_895990277.JPG?t=1466100469",
+                                                                              "visible_area": 117192,
+                                                                              "x_coordinate": 71.5,
+                                                                              "y_coordinate": 2223.640625,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "diyfeModGridElement diyfeModGridCol33 diyfeModGridElement3rd",
+                                                  "visible_area": 196392,
+                                                  "x_coordinate": 33,
+                                                  "y_coordinate": 2679.65625,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "div",
+                                                      "class": "diyfeModGridContent",
+                                                      "visible_area": 178752,
+                                                      "x_coordinate": 48,
+                                                      "y_coordinate": 2679.65625,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "div",
+                                                          "id": "matrix_110576077",
+                                                          "class": "sortable-matrix-child",
+                                                          "visible_area": 178448,
+                                                          "x_coordinate": 48,
+                                                          "y_coordinate": 2679.671875,
+                                                          "children": [
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 98192,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 2679.671875,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-763926343",
+                                                                  "class": "clearover imageSubtitle",
+                                                                  "visible_area": 98192,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 2679.671875,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 77197,
+                                                                      "x_coordinate": 80.5,
+                                                                      "y_coordinate": 2679.671875,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_895990287.JPG?t=1466105862",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 80.5,
+                                                                          "y_coordinate": 2679.671875,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_895990287",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_895990287.JPG?t=1466105862",
+                                                                              "visible_area": 77197,
+                                                                              "x_coordinate": 80.5,
+                                                                              "y_coordinate": 2679.671875,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 80256,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 3002.671875,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-762946657",
+                                                                  "class": "clearover imageSubtitle",
+                                                                  "visible_area": 80256,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 3002.671875,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 80256,
+                                                                      "x_coordinate": 48,
+                                                                      "y_coordinate": 3002.671875,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_894301142.JPG?t=1453229799",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 48,
+                                                                          "y_coordinate": 3002.671875,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_894301142",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_894301142.JPG?t=1453229799",
+                                                                              "visible_area": 80256,
+                                                                              "x_coordinate": 48,
+                                                                              "y_coordinate": 3002.671875,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag_name": "div",
+                                                  "x_coordinate": 33,
+                                                  "y_coordinate": 3267.15625,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-spacer diyfeLiveArea",
+                                          "visible_area": 6080,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 3267.15625,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "class": "the-spacer id762946658",
+                                              "visible_area": 6080,
+                                              "x_coordinate": 48,
+                                              "y_coordinate": 3267.15625,
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-matrix diyfeLiveArea",
+                                          "visible_area": 614688,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 3287.15625,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "class": "diyfeModGridGroup diyfeModGrid3",
+                                              "visible_area": 675014,
+                                              "x_coordinate": 33,
+                                              "y_coordinate": 3287.15625,
+                                              "children": [
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "diyfeModGridElement diyfeModGridCol33 diyfeModGridElement1st",
+                                                  "visible_area": 235136,
+                                                  "x_coordinate": 33,
+                                                  "y_coordinate": 3287.15625,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "div",
+                                                      "class": "diyfeModGridContent",
+                                                      "visible_area": 214016,
+                                                      "x_coordinate": 48,
+                                                      "y_coordinate": 3287.15625,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "div",
+                                                          "id": "matrix_110576078",
+                                                          "class": "sortable-matrix-child",
+                                                          "visible_area": 214016,
+                                                          "x_coordinate": 48,
+                                                          "y_coordinate": 3287.171875,
+                                                          "children": [
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 80864,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 3287.171875,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-762946660",
+                                                                  "class": "clearover imageSubtitle",
+                                                                  "visible_area": 80864,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 3287.171875,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 80864,
+                                                                      "x_coordinate": 48,
+                                                                      "y_coordinate": 3287.171875,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_894301148.JPG?t=1453229857",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 48,
+                                                                          "y_coordinate": 3287.171875,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_894301148",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_894301148.JPG?t=1453229857",
+                                                                              "visible_area": 80864,
+                                                                              "x_coordinate": 48,
+                                                                              "y_coordinate": 3287.171875,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 133152,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 3552.78125,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-763926672",
+                                                                  "class": "clearover imageSubtitle imageFitWidth",
+                                                                  "visible_area": 133456,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 3552.78125,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 133456,
+                                                                      "x_coordinate": 48,
+                                                                      "y_coordinate": 3552.78125,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_895990794.JPG?t=1466105699",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 48,
+                                                                          "y_coordinate": 3552.78125,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_895990794",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_895990794.JPG?t=1466105699",
+                                                                              "visible_area": 133456,
+                                                                              "x_coordinate": 48,
+                                                                              "y_coordinate": 3552.78125,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "diyfeModGridElement diyfeModGridCol33 diyfeModGridElement2nd",
+                                                  "visible_area": 217434,
+                                                  "x_coordinate": 33,
+                                                  "y_coordinate": 3991.3125,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "div",
+                                                      "class": "diyfeModGridContent",
+                                                      "visible_area": 197904,
+                                                      "x_coordinate": 48,
+                                                      "y_coordinate": 3991.3125,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "div",
+                                                          "id": "matrix_110576079",
+                                                          "class": "sortable-matrix-child",
+                                                          "visible_area": 197904,
+                                                          "x_coordinate": 48,
+                                                          "y_coordinate": 3991.328125,
+                                                          "children": [
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 117344,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 3991.328125,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-763927264",
+                                                                  "class": "clearover imageSubtitle imageFitWidth",
+                                                                  "visible_area": 117344,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 3991.328125,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 117344,
+                                                                      "x_coordinate": 48,
+                                                                      "y_coordinate": 3991.328125,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_895990813.JPG?t=1466105961",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 48,
+                                                                          "y_coordinate": 3991.328125,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_895990813",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_895990813.JPG?t=1466105961",
+                                                                              "visible_area": 117344,
+                                                                              "x_coordinate": 48,
+                                                                              "y_coordinate": 3991.328125,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 80560,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 4376.875,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-762947891",
+                                                                  "class": "clearover imageSubtitle",
+                                                                  "visible_area": 80864,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 4376.875,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 80864,
+                                                                      "x_coordinate": 48,
+                                                                      "y_coordinate": 4376.875,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_894301166.JPG?t=1453229969",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 48,
+                                                                          "y_coordinate": 4376.875,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_894301166",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_894301166.JPG?t=1453229969",
+                                                                              "visible_area": 80864,
+                                                                              "x_coordinate": 48,
+                                                                              "y_coordinate": 4376.875,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag_name": "div",
+                                                  "class": "diyfeModGridElement diyfeModGridCol33 diyfeModGridElement3rd",
+                                                  "visible_area": 222444,
+                                                  "x_coordinate": 33,
+                                                  "y_coordinate": 4642.5,
+                                                  "children": [
+                                                    {
+                                                      "tag_name": "div",
+                                                      "class": "diyfeModGridContent",
+                                                      "visible_area": 202464,
+                                                      "x_coordinate": 48,
+                                                      "y_coordinate": 4642.5,
+                                                      "children": [
+                                                        {
+                                                          "tag_name": "div",
+                                                          "id": "matrix_110576080",
+                                                          "class": "sortable-matrix-child",
+                                                          "visible_area": 202464,
+                                                          "x_coordinate": 48,
+                                                          "y_coordinate": 4642.515625,
+                                                          "children": [
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 80864,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 4642.515625,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-762946662",
+                                                                  "class": "clearover imageSubtitle",
+                                                                  "visible_area": 80864,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 4642.515625,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 80864,
+                                                                      "x_coordinate": 48,
+                                                                      "y_coordinate": 4642.515625,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_894301158.JPG?t=1453229922",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 48,
+                                                                          "y_coordinate": 4642.515625,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_894301158",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_894301158.JPG?t=1453229922",
+                                                                              "visible_area": 80864,
+                                                                              "x_coordinate": 48,
+                                                                              "y_coordinate": 4642.515625,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            },
+                                                            {
+                                                              "tag_name": "div",
+                                                              "class": "n module-type-imageSubtitle diyfeLiveArea",
+                                                              "visible_area": 121600,
+                                                              "x_coordinate": 48,
+                                                              "y_coordinate": 4908.125,
+                                                              "children": [
+                                                                {
+                                                                  "tag_name": "div",
+                                                                  "id": "imagesubtitle-763927276",
+                                                                  "class": "clearover imageSubtitle imageFitWidth",
+                                                                  "visible_area": 121600,
+                                                                  "x_coordinate": 48,
+                                                                  "y_coordinate": 4908.125,
+                                                                  "children": [
+                                                                    {
+                                                                      "tag_name": "div",
+                                                                      "class": "align-container align-center",
+                                                                      "visible_area": 121600,
+                                                                      "x_coordinate": 48,
+                                                                      "y_coordinate": 4908.125,
+                                                                      "children": [
+                                                                        {
+                                                                          "tag_name": "a",
+                                                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/teaserbox_895990816.JPG?t=1466106107",
+                                                                          "class": "imagewrapper",
+                                                                          "x_coordinate": 48,
+                                                                          "y_coordinate": 4908.125,
+                                                                          "children": [
+                                                                            {
+                                                                              "tag_name": "img",
+                                                                              "id": "image_895990816",
+                                                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/s/cc_images/cache_895990816.JPG?t=1466106107",
+                                                                              "visible_area": 121600,
+                                                                              "x_coordinate": 48,
+                                                                              "y_coordinate": 4908.125,
+                                                                              "children": []
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                },
+                                                                {
+                                                                  "tag_name": "script",
+                                                                  "x_coordinate": 0,
+                                                                  "y_coordinate": 0,
+                                                                  "children": []
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag_name": "div",
+                                                  "x_coordinate": 33,
+                                                  "y_coordinate": 5308.515625,
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag_name": "div",
+                                          "class": "n module-type-spacer diyfeLiveArea",
+                                          "visible_area": 15200,
+                                          "x_coordinate": 48,
+                                          "y_coordinate": 5308.515625,
+                                          "children": [
+                                            {
+                                              "tag_name": "div",
+                                              "class": "the-spacer id762946663",
+                                              "visible_area": 15200,
+                                              "x_coordinate": 48,
+                                              "y_coordinate": 5308.515625,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "diywebSecondary diyfeCA diyfeCA3",
+                          "x_coordinate": 0,
+                          "y_coordinate": 5358.515625,
+                          "children": [
+                            {
+                              "tag_name": "div",
+                              "class": "diywebGutter",
+                              "x_coordinate": 0,
+                              "y_coordinate": 5358.515625,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag_name": "div",
+                  "class": "diywebGutter",
+                  "visible_area": 38000,
+                  "x_coordinate": 0,
+                  "y_coordinate": 5358.515625,
+                  "children": [
+                    {
+                      "tag_name": "div",
+                      "class": "diywebFooter diyfeCA diyfeCA4",
+                      "visible_area": 38000,
+                      "x_coordinate": 0,
+                      "y_coordinate": 5358.515625,
+                      "children": [
+                        {
+                          "tag_name": "div",
+                          "class": "diywebGutter",
+                          "visible_area": 22000,
+                          "x_coordinate": 0,
+                          "y_coordinate": 5378.515625,
+                          "children": [
+                            {
+                              "tag_name": "div",
+                              "id": "contentfooter",
+                              "visible_area": 20350,
+                              "x_coordinate": 15,
+                              "y_coordinate": 5378.515625,
+                              "children": [
+                                {
+                                  "tag_name": "div",
+                                  "class": "leftrow",
+                                  "visible_area": 11220,
+                                  "x_coordinate": 15,
+                                  "y_coordinate": 5378.515625,
+                                  "children": [
+                                    {
+                                      "tag_name": "a",
+                                      "href": "javascript:window.print();",
+                                      "x_coordinate": 15,
+                                      "y_coordinate": 5380.515625,
+                                      "children": [
+                                        {
+                                          "tag_name": "img",
+                                          "src": "http://cdn.initial-website.com/s/img/cc/printer.gif",
+                                          "class": "inline",
+                                          "visible_area": 252,
+                                          "x_coordinate": 15,
+                                          "y_coordinate": 5378.515625,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "span",
+                                      "class": "footer-separator",
+                                      "x_coordinate": 66.9375,
+                                      "y_coordinate": 5380.515625,
+                                      "children": []
+                                    },
+                                    {
+                                      "tag_name": "a",
+                                      "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/www.sammiesdoggydaycare.com/sitemap/index.html",
+                                      "x_coordinate": 73.921875,
+                                      "y_coordinate": 5380.515625,
+                                      "children": []
+                                    },
+                                    {
+                                      "tag_name": "br",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": []
+                                    },
+                                    {
+                                      "tag_name": "a",
+                                      "href": "http://www.1and1.com/website-builder",
+                                      "x_coordinate": 15,
+                                      "y_coordinate": 5398.515625,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag_name": "script",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "div",
+                                  "class": "rightrow",
+                                  "visible_area": 5580,
+                                  "x_coordinate": 229.609375,
+                                  "y_coordinate": 5378.515625,
+                                  "children": [
+                                    {
+                                      "tag_name": "span",
+                                      "class": "loggedout",
+                                      "x_coordinate": 353.203125,
+                                      "y_coordinate": 5379.515625,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "id": "login",
+                                          "href": "https://login.1and1-editor.com/78391821/www.sammiesdoggydaycare.com/us?pageId=122274544",
+                                          "x_coordinate": 353.203125,
+                                          "y_coordinate": 5379.515625,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "p",
+                                      "visible_area": 2790,
+                                      "x_coordinate": 229.609375,
+                                      "y_coordinate": 5396.515625,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "javascript:switchView('desktop');",
+                                          "class": "diyw switchViewWeb",
+                                          "x_coordinate": 326.953125,
+                                          "y_coordinate": 5397.515625,
+                                          "children": []
+                                        },
+                                        {
+                                          "tag_name": "a",
+                                          "href": "javascript:switchView('mobile');",
+                                          "class": "diyw switchViewMobile",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "span",
+                                      "class": "loggedin",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "id": "logout",
+                                          "href": "https://cms03.initial-website.com/app/cms/logout.php",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": []
+                                        },
+                                        {
+                                          "tag_name": "span",
+                                          "class": "footer-separator",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": []
+                                        },
+                                        {
+                                          "tag_name": "a",
+                                          "id": "edit",
+                                          "href": "https://cms03.initial-website.com/app/78391821/122274544/",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "div",
+                              "id": "loginbox",
+                              "class": "hidden",
+                              "x_coordinate": 0,
+                              "y_coordinate": 0,
+                              "children": [
+                                {
+                                  "tag_name": "script",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "a",
+                                  "href": "http://1and1.com/",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": [
+                                    {
+                                      "tag_name": "img",
+                                      "src": "http://cdn.initial-website.com/s/img/1and1/logo.gif",
+                                      "class": "logo",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag_name": "div",
+                                  "id": "loginboxouter",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag_name": "script",
+          "src": "http://uim.tifbs.net/js/8214.js",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "title": "Sammie's Doggy Daycare - Home",
+  "host": "ground-truth-data.s3-website-us-east-1.amazonaws.com"
+}

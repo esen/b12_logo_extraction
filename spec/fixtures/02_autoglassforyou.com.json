@@ -1,0 +1,1504 @@
+{
+  "tag_name": "html",
+  "visible_area": 1920800,
+  "x_coordinate": 0,
+  "y_coordinate": 0,
+  "children": [
+    {
+      "tag_name": "head",
+      "x_coordinate": 0,
+      "y_coordinate": 0,
+      "children": [
+        {
+          "tag_name": "style",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "title",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "meta",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/index.html",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/modules/mod_flashmod.js",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "link",
+          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/css/style-in.css",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/js/jquery.banner.js",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "style",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://autoglassforyou.com/css/jquery.banner.js",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/994475990/?random=1519553218888&cv=9&fst=1519553218888&num=1&label=Rw16COKWggQQ1v-Z2gM&guid=ON&resp=GooglemKTybQhCsO&u_h=800&u_w=400&u_ah=800&u_aw=400&u_cd=24&u_his=2&u_tz=360&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=http%3A%2F%2Fground-truth-data.s3-website-us-east-1.amazonaws.com%2Fautoglassforyou.com%2F&tiba=Windshield%20From%20%2498.00%20-%201-800-300-8884%20-%20Get%20the%20Best%20Price%20Now!&rfmt=3&fmt=4",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag_name": "body",
+      "visible_area": 945700,
+      "x_coordinate": 0,
+      "y_coordinate": 0,
+      "children": [
+        {
+          "tag_name": "div",
+          "id": "blanket",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "div",
+          "id": "main_body",
+          "visible_area": 951490,
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": [
+            {
+              "tag_name": "div",
+              "id": "main_wrapper0",
+              "visible_area": 690768,
+              "x_coordinate": 1,
+              "y_coordinate": 0,
+              "children": [
+                {
+                  "tag_name": "div",
+                  "id": "main_wrapper",
+                  "visible_area": 196800,
+                  "x_coordinate": 1,
+                  "y_coordinate": 0,
+                  "children": [
+                    {
+                      "tag_name": "div",
+                      "id": "glass_header",
+                      "background_image": "url(\"http://autoglassforyou.com/images/inr-windshieldfrom98.png\")",
+                      "visible_area": 196800,
+                      "x_coordinate": 1,
+                      "y_coordinate": 0,
+                      "children": [
+                        {
+                          "tag_name": "div",
+                          "id": "glass_header_text",
+                          "visible_area": 43875,
+                          "x_coordinate": 36,
+                          "y_coordinate": 106,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "x_coordinate": 99.84375,
+                              "y_coordinate": 106,
+                              "children": [
+                                {
+                                  "tag_name": "i",
+                                  "x_coordinate": 99.84375,
+                                  "y_coordinate": 106,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "br",
+                              "x_coordinate": 557.140625,
+                              "y_coordinate": 140,
+                              "children": []
+                            },
+                            {
+                              "tag_name": "big",
+                              "x_coordinate": 134.65625,
+                              "y_coordinate": 147,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag_name": "div",
+                  "id": "glass_nav",
+                  "visible_area": 29520,
+                  "x_coordinate": 1,
+                  "y_coordinate": 189,
+                  "children": [
+                    {
+                      "tag_name": "div",
+                      "id": "menu_links",
+                      "visible_area": 24600,
+                      "x_coordinate": 1,
+                      "y_coordinate": 189,
+                      "children": [
+                        {
+                          "tag_name": "ul",
+                          "visible_area": 29520,
+                          "x_coordinate": 1,
+                          "y_coordinate": 200,
+                          "children": [
+                            {
+                              "tag_name": "li",
+                              "class": "active",
+                              "visible_area": 4500,
+                              "x_coordinate": 1,
+                              "y_coordinate": 200,
+                              "children": [
+                                {
+                                  "tag_name": "a",
+                                  "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/index.html",
+                                  "visible_area": 4500,
+                                  "x_coordinate": 1,
+                                  "y_coordinate": 200,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "li",
+                              "visible_area": 4500,
+                              "x_coordinate": 151,
+                              "y_coordinate": 200,
+                              "children": [
+                                {
+                                  "tag_name": "a",
+                                  "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/why-should-you-choose-us.html",
+                                  "visible_area": 4500,
+                                  "x_coordinate": 151,
+                                  "y_coordinate": 200,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "li",
+                              "visible_area": 4500,
+                              "x_coordinate": 301,
+                              "y_coordinate": 200,
+                              "children": [
+                                {
+                                  "tag_name": "a",
+                                  "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/1get-an-instant-quote.html",
+                                  "visible_area": 4500,
+                                  "x_coordinate": 301,
+                                  "y_coordinate": 200,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "li",
+                              "visible_area": 4500,
+                              "x_coordinate": 451,
+                              "y_coordinate": 200,
+                              "children": [
+                                {
+                                  "tag_name": "a",
+                                  "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/lifetime-warranty.html",
+                                  "visible_area": 4500,
+                                  "x_coordinate": 451,
+                                  "y_coordinate": 200,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "li",
+                              "visible_area": 4500,
+                              "x_coordinate": 601,
+                              "y_coordinate": 200,
+                              "children": [
+                                {
+                                  "tag_name": "a",
+                                  "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/store-list.html",
+                                  "visible_area": 4500,
+                                  "x_coordinate": 601,
+                                  "y_coordinate": 200,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "li",
+                              "visible_area": 4500,
+                              "x_coordinate": 751,
+                              "y_coordinate": 200,
+                              "children": [
+                                {
+                                  "tag_name": "a",
+                                  "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/contact-us.html",
+                                  "visible_area": 4500,
+                                  "x_coordinate": 751,
+                                  "y_coordinate": 200,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag_name": "div",
+                  "visible_area": 19680,
+                  "x_coordinate": 1,
+                  "y_coordinate": 219,
+                  "children": []
+                },
+                {
+                  "tag_name": "div",
+                  "id": "glass_body_main",
+                  "visible_area": 455592,
+                  "x_coordinate": 1,
+                  "y_coordinate": 239,
+                  "children": [
+                    {
+                      "tag_name": "div",
+                      "id": "body_center1",
+                      "visible_area": 306900,
+                      "x_coordinate": 16,
+                      "y_coordinate": 242,
+                      "children": [
+                        {
+                          "tag_name": "div",
+                          "id": "front_page_center_div",
+                          "visible_area": 306900,
+                          "x_coordinate": 16,
+                          "y_coordinate": 242,
+                          "children": [
+                            {
+                              "tag_name": "div",
+                              "id": "image_list_3",
+                              "visible_area": 306900,
+                              "x_coordinate": 16,
+                              "y_coordinate": 242,
+                              "children": [
+                                {
+                                  "tag_name": "ul",
+                                  "id": "label_3",
+                                  "class": "clsBannerButton",
+                                  "visible_area": 3212,
+                                  "x_coordinate": 516,
+                                  "y_coordinate": 665,
+                                  "children": [
+                                    {
+                                      "tag_name": "li",
+                                      "visible_area": 225,
+                                      "x_coordinate": 559,
+                                      "y_coordinate": 668,
+                                      "children": [
+                                        {
+                                          "tag_name": "img",
+                                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/round-b.png",
+                                          "visible_area": 225,
+                                          "x_coordinate": 559,
+                                          "y_coordinate": 668,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "visible_area": 256,
+                                      "x_coordinate": 580,
+                                      "y_coordinate": 668,
+                                      "children": [
+                                        {
+                                          "tag_name": "img",
+                                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/round-a.png",
+                                          "visible_area": 256,
+                                          "x_coordinate": 580,
+                                          "y_coordinate": 668,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "visible_area": 225,
+                                      "x_coordinate": 602,
+                                      "y_coordinate": 668,
+                                      "children": [
+                                        {
+                                          "tag_name": "img",
+                                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/round-b.png",
+                                          "visible_area": 225,
+                                          "x_coordinate": 602,
+                                          "y_coordinate": 668,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "visible_area": 225,
+                                      "x_coordinate": 623,
+                                      "y_coordinate": 668,
+                                      "children": [
+                                        {
+                                          "tag_name": "img",
+                                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/round-b.png",
+                                          "visible_area": 225,
+                                          "x_coordinate": 623,
+                                          "y_coordinate": 668,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "li",
+                                      "visible_area": 225,
+                                      "x_coordinate": 644,
+                                      "y_coordinate": 668,
+                                      "children": [
+                                        {
+                                          "tag_name": "img",
+                                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/round-b.png",
+                                          "visible_area": 225,
+                                          "x_coordinate": 644,
+                                          "y_coordinate": 668,
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag_name": "div",
+                                  "class": "clsBannerScreen",
+                                  "visible_area": 306000,
+                                  "x_coordinate": 16,
+                                  "y_coordinate": 242,
+                                  "children": [
+                                    {
+                                      "tag_name": "div",
+                                      "class": "images",
+                                      "x_coordinate": 0,
+                                      "y_coordinate": 0,
+                                      "children": [
+                                        {
+                                          "tag_name": "img",
+                                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/home_banner_logo_call_us_now.jpg",
+                                          "x_coordinate": 0,
+                                          "y_coordinate": 0,
+                                          "children": []
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "div",
+                                      "class": "images",
+                                      "visible_area": 306000,
+                                      "x_coordinate": 16,
+                                      "y_coordinate": 242,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/1get-an-instant-quote.html",
+                                          "x_coordinate": 16,
+                                          "y_coordinate": 681,
+                                          "children": [
+                                            {
+                                              "tag_name": "img",
+                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/center1.jpg",
+                                              "visible_area": 306000,
+                                              "x_coordinate": 16,
+                                              "y_coordinate": 242,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "div",
+                                      "class": "images",
+                                      "visible_area": 306000,
+                                      "x_coordinate": 696,
+                                      "y_coordinate": 242,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/testimonials.php",
+                                          "x_coordinate": 696,
+                                          "y_coordinate": 681,
+                                          "children": [
+                                            {
+                                              "tag_name": "img",
+                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/center2.jpg",
+                                              "visible_area": 306000,
+                                              "x_coordinate": 696,
+                                              "y_coordinate": 242,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "div",
+                                      "class": "images",
+                                      "visible_area": 306000,
+                                      "x_coordinate": 696,
+                                      "y_coordinate": 242,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/store-list.html",
+                                          "x_coordinate": 696,
+                                          "y_coordinate": 681,
+                                          "children": [
+                                            {
+                                              "tag_name": "img",
+                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/home_banner_store_location.jpg",
+                                              "visible_area": 306000,
+                                              "x_coordinate": 696,
+                                              "y_coordinate": 242,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag_name": "div",
+                                      "class": "images",
+                                      "visible_area": 306000,
+                                      "x_coordinate": 696,
+                                      "y_coordinate": 242,
+                                      "children": [
+                                        {
+                                          "tag_name": "a",
+                                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/store-list.html",
+                                          "x_coordinate": 696,
+                                          "y_coordinate": 681,
+                                          "children": [
+                                            {
+                                              "tag_name": "img",
+                                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/center4.jpg",
+                                              "visible_area": 306000,
+                                              "x_coordinate": 696,
+                                              "y_coordinate": 242,
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag_name": "div",
+                      "id": "body_right",
+                      "visible_area": 119600,
+                      "x_coordinate": 708,
+                      "y_coordinate": 242,
+                      "children": [
+                        {
+                          "tag_name": "div",
+                          "class": "box1",
+                          "background_image": "url(\"http://autoglassforyou.com/images/rightside-1.png\")",
+                          "visible_area": 55900,
+                          "x_coordinate": 708,
+                          "y_coordinate": 242,
+                          "children": [
+                            {
+                              "tag_name": "img",
+                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/hi-grandama.png",
+                              "visible_area": 55900,
+                              "x_coordinate": 708,
+                              "y_coordinate": 242,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "box2",
+                          "background_image": "url(\"http://autoglassforyou.com/images/rightside-2.png\")",
+                          "visible_area": 30420,
+                          "x_coordinate": 708,
+                          "y_coordinate": 466,
+                          "children": [
+                            {
+                              "tag_name": "img",
+                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/call.png",
+                              "visible_area": 5550,
+                              "x_coordinate": 727,
+                              "y_coordinate": 472,
+                              "children": []
+                            },
+                            {
+                              "tag_name": "div",
+                              "visible_area": 2600,
+                              "x_coordinate": 708,
+                              "y_coordinate": 497,
+                              "children": []
+                            },
+                            {
+                              "tag_name": "div",
+                              "background_image": "url(\"http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/operator-bg.png\")",
+                              "visible_area": 12045,
+                              "x_coordinate": 728,
+                              "y_coordinate": 507,
+                              "children": [
+                                {
+                                  "tag_name": "div",
+                                  "visible_area": 1752,
+                                  "x_coordinate": 728,
+                                  "y_coordinate": 507,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 743.046875,
+                                  "y_coordinate": 515,
+                                  "children": [
+                                    {
+                                      "tag_name": "br",
+                                      "x_coordinate": 881.9375,
+                                      "y_coordinate": 530,
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 777.515625,
+                                  "y_coordinate": 533,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "div",
+                          "class": "box3",
+                          "background_image": "url(\"http://autoglassforyou.com/images/rightside-2.png\")",
+                          "visible_area": 30420,
+                          "x_coordinate": 708,
+                          "y_coordinate": 585,
+                          "children": [
+                            {
+                              "tag_name": "img",
+                              "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/free1.png",
+                              "visible_area": 5550,
+                              "x_coordinate": 727,
+                              "y_coordinate": 591,
+                              "children": []
+                            },
+                            {
+                              "tag_name": "div",
+                              "visible_area": 2080,
+                              "x_coordinate": 708,
+                              "y_coordinate": 616,
+                              "children": []
+                            },
+                            {
+                              "tag_name": "div",
+                              "visible_area": 11440,
+                              "x_coordinate": 728,
+                              "y_coordinate": 624,
+                              "children": [
+                                {
+                                  "tag_name": "div",
+                                  "visible_area": 11440,
+                                  "x_coordinate": 728,
+                                  "y_coordinate": 624,
+                                  "children": [
+                                    {
+                                      "tag_name": "a",
+                                      "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/insurance-claim-guide.html",
+                                      "x_coordinate": 838.53125,
+                                      "y_coordinate": 663,
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag_name": "div",
+              "id": "page_bottom",
+              "visible_area": 167280,
+              "x_coordinate": 0,
+              "y_coordinate": 702,
+              "children": [
+                {
+                  "tag_name": "div",
+                  "id": "page_bottom_resize",
+                  "visible_area": 162180,
+                  "x_coordinate": 15,
+                  "y_coordinate": 712,
+                  "children": [
+                    {
+                      "tag_name": "div",
+                      "class": "content",
+                      "visible_area": 97500,
+                      "x_coordinate": 30,
+                      "y_coordinate": 724,
+                      "children": [
+                        {
+                          "tag_name": "span",
+                          "x_coordinate": 30,
+                          "y_coordinate": 724,
+                          "children": []
+                        },
+                        {
+                          "tag_name": "a",
+                          "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/testimonials.php",
+                          "x_coordinate": 236.140625,
+                          "y_coordinate": 726,
+                          "children": [
+                            {
+                              "tag_name": "u",
+                              "x_coordinate": 236.140625,
+                              "y_coordinate": 726,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "div",
+                          "visible_area": 6500,
+                          "x_coordinate": 30,
+                          "y_coordinate": 740,
+                          "children": []
+                        },
+                        {
+                          "tag_name": "div",
+                          "id": "slideshow3",
+                          "visible_area": 75000,
+                          "x_coordinate": 30,
+                          "y_coordinate": 750,
+                          "children": [
+                            {
+                              "tag_name": "div",
+                              "visible_area": 63525,
+                              "x_coordinate": 42,
+                              "y_coordinate": 757,
+                              "children": [
+                                {
+                                  "tag_name": "strong",
+                                  "x_coordinate": 42,
+                                  "y_coordinate": 763,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "img",
+                                  "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/star5.png",
+                                  "visible_area": 1710,
+                                  "x_coordinate": 227.53125,
+                                  "y_coordinate": 757,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "br",
+                                  "x_coordinate": 322.53125,
+                                  "y_coordinate": 775,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "div",
+                              "x_coordinate": 0,
+                              "y_coordinate": 0,
+                              "children": [
+                                {
+                                  "tag_name": "strong",
+                                  "x_coordinate": 42,
+                                  "y_coordinate": 763,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "img",
+                                  "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/star5.png",
+                                  "visible_area": 1710,
+                                  "x_coordinate": 157.734375,
+                                  "y_coordinate": 757,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "br",
+                                  "x_coordinate": 252.734375,
+                                  "y_coordinate": 775,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "div",
+                              "x_coordinate": 0,
+                              "y_coordinate": 0,
+                              "children": [
+                                {
+                                  "tag_name": "strong",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "img",
+                                  "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/star5.png",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "br",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag_name": "div",
+                              "x_coordinate": 0,
+                              "y_coordinate": 0,
+                              "children": [
+                                {
+                                  "tag_name": "strong",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "img",
+                                  "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/star5.png",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                },
+                                {
+                                  "tag_name": "br",
+                                  "x_coordinate": 0,
+                                  "y_coordinate": 0,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag_name": "div",
+                      "class": "side",
+                      "visible_area": 40300,
+                      "x_coordinate": 705,
+                      "y_coordinate": 724,
+                      "children": [
+                        {
+                          "tag_name": "img",
+                          "src": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/images/logo-change.gif",
+                          "visible_area": 18212,
+                          "x_coordinate": 754.5625,
+                          "y_coordinate": 724,
+                          "children": []
+                        },
+                        {
+                          "tag_name": "br",
+                          "x_coordinate": 0,
+                          "y_coordinate": 0,
+                          "children": []
+                        },
+                        {
+                          "tag_name": "a",
+                          "href": "http://www.facebook.com/pages/Glass-Masters/114926591870014",
+                          "x_coordinate": 755.328125,
+                          "y_coordinate": 866,
+                          "children": []
+                        },
+                        {
+                          "tag_name": "a",
+                          "href": "https://twitter.com/AutoGlass_Now",
+                          "x_coordinate": 833.0625,
+                          "y_coordinate": 866,
+                          "children": []
+                        },
+                        {
+                          "tag_name": "a",
+                          "href": "http://www.youtube.com/user/autoglass4u",
+                          "x_coordinate": 879.65625,
+                          "y_coordinate": 866,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag_name": "hr",
+              "id": "hr2",
+              "visible_area": 4920,
+              "x_coordinate": 0,
+              "y_coordinate": 899,
+              "children": []
+            },
+            {
+              "tag_name": "div",
+              "visible_area": 7888,
+              "x_coordinate": 0,
+              "y_coordinate": 901,
+              "children": []
+            },
+            {
+              "tag_name": "div",
+              "id": "glass_footer",
+              "visible_area": 23616,
+              "x_coordinate": 0,
+              "y_coordinate": 909,
+              "children": [
+                {
+                  "tag_name": "div",
+                  "id": "bottom_bg",
+                  "visible_area": 19000,
+                  "x_coordinate": 0,
+                  "y_coordinate": 914,
+                  "children": [
+                    {
+                      "tag_name": "ul",
+                      "class": "menu",
+                      "visible_area": 13000,
+                      "x_coordinate": 0,
+                      "y_coordinate": 914,
+                      "children": [
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 110.015625,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/index.html",
+                              "x_coordinate": 115.015625,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 115.015625,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 151.21875,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 156.21875,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 156.21875,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 165.9375,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/why-should-you-choose-us.html",
+                              "x_coordinate": 170.9375,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 170.9375,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 217.0625,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 222.0625,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 222.0625,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 231.78125,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/insurance-claim-guide.html",
+                              "x_coordinate": 236.78125,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 236.78125,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 297.46875,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 302.46875,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 302.46875,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 312.1875,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/store-list.html",
+                              "x_coordinate": 317.1875,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 317.1875,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 408.1875,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 413.1875,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 413.1875,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 422.90625,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/testimonials.php",
+                              "x_coordinate": 427.90625,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 427.90625,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 503.03125,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 508.03125,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 508.03125,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 517.75,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/frequently-asked-questions.html",
+                              "x_coordinate": 522.75,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 522.75,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 558.515625,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 563.515625,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 563.515625,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 573.234375,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://www.autoglassnow.com/blog",
+                              "x_coordinate": 578.234375,
+                              "y_coordinate": 915,
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 606.875,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 611.875,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 611.875,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 621.59375,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/join-our-team.php",
+                              "x_coordinate": 626.59375,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 626.59375,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 673.40625,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 678.40625,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 678.40625,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 688.125,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/contact-us.html",
+                              "x_coordinate": 693.125,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 693.125,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 757.234375,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 762.234375,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 762.234375,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 771.953125,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/privacy.html",
+                              "x_coordinate": 776.953125,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 776.953125,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 821.984375,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "span",
+                              "class": "separator",
+                              "x_coordinate": 826.984375,
+                              "y_coordinate": 914,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 826.984375,
+                                  "y_coordinate": 914,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag_name": "li",
+                          "x_coordinate": 836.703125,
+                          "y_coordinate": 914,
+                          "children": [
+                            {
+                              "tag_name": "a",
+                              "href": "http://ground-truth-data.s3-website-us-east-1.amazonaws.com/autoglassforyou.com/site-map.html",
+                              "x_coordinate": 841.703125,
+                              "y_coordinate": 915,
+                              "children": [
+                                {
+                                  "tag_name": "span",
+                                  "x_coordinate": 841.703125,
+                                  "y_coordinate": 915,
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag_name": "p",
+                      "visible_area": 11940,
+                      "x_coordinate": 5,
+                      "y_coordinate": 932,
+                      "children": [
+                        {
+                          "tag_name": "font",
+                          "x_coordinate": 364.546875,
+                          "y_coordinate": 932,
+                          "children": [
+                            {
+                              "tag_name": "b",
+                              "x_coordinate": 364.546875,
+                              "y_coordinate": 932,
+                              "children": []
+                            },
+                            {
+                              "tag_name": "b",
+                              "x_coordinate": 519.203125,
+                              "y_coordinate": 932,
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag_name": "div",
+          "id": "wrapper",
+          "x_coordinate": 0,
+          "y_coordinate": 965,
+          "children": []
+        },
+        {
+          "tag_name": "div",
+          "id": "popup_wrapper_div",
+          "class": "popup_wrapper_div",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://www.google-analytics.com/ga.js",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "script",
+          "src": "http://www.googleadservices.com/pagead/conversion.js",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        },
+        {
+          "tag_name": "noscript",
+          "x_coordinate": 0,
+          "y_coordinate": 0,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "title": "Windshield From $98.00 - 1-800-300-8884 - Get the Best Price Now!",
+  "host": "ground-truth-data.s3-website-us-east-1.amazonaws.com"
+}

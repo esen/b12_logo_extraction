@@ -1,0 +1,19 @@
+{
+  "tag_name": "html",
+  "title": "Windshield From $98.00 - 1-800-300-8884 - Get the Best Price Now!",
+  "host": "ground-truth-data.s3-website-us-east-1.amazonaws.com",
+  "id": "label_3",
+  "class": "clsBannerButton",
+  "visible_area": 3212,
+  "x_coordinate": 516,
+  "y_coordinate": 665,
+  "children": [
+      {
+        "tag_name": "img",
+        "visible_area": 225,
+        "x_coordinate": 559,
+        "y_coordinate": 668,
+        "children": []
+      }
+  ]
+}
