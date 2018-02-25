@@ -6,7 +6,7 @@ require './lib/html_node'
 require './lib/html_nodes/google_chrome_html_node'
 require 'csv'
 
-input_file = './logo-extraction_t.txt'
+input_file = './logo-extraction.txt'
 csv = CSV.parse(File.read(input_file))
 csv.shift
 urls = csv.map(&:first).reject(&:nil?)
