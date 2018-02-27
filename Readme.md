@@ -10,6 +10,10 @@ it can be a logo image.
 - If an image navigates to any other website on click, it's not considered as logo
 - If screen size is 400x800, then logo image may not occupy more than 60000px area on screen
 
+## Results ##
+
+This script finds 40 correct results out of 45 given samples. But some sites take too long for navigation(up to 10 minutes). So I put 40 sedonds timeout for navigation. This makes some sites fail with timeout and the total number of correct results is 37-38 out of 45.
+
 
 ## Prerequisites ##
 
@@ -35,7 +39,6 @@ You need to have *logo-extraction.txt* files with the list of urls in the same f
 
 - `ruby ./scrape.rb` to run the script.
 - `rspec --format documentation` to run the tests.
-
 
 
 
